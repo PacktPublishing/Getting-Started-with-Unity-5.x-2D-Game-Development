@@ -20,8 +20,7 @@ public AwesomeUnityDeveloper GettingStarted(Yourself you) {
 ```
 
 To go through the topics covered in this book, you will need two important things:
-Any version of Unity, possibly 5.x since it was the range of versions that this book has been written for. As you already know, and Chapter 1, A Flat World in Unity, will repeat, you can get it from the Unity official website: http://www. uni
-ty3d. com.
+Any version of Unity, possibly 5.x since it was the range of versions that this book has been written for. As you already know, and Chapter 1, A Flat World in Unity, will repeat, you can get it from the Unity official website: http://www.unity3d.com.
 Your enthusiasm and passion, in order to take an awesome journey in the world of game development together!
 
 ##Related Products
